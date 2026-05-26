@@ -68,10 +68,12 @@ El aplicativo esta diseñado para utilizarse en dispositivo movil, para ello la 
 2. Conceder los permisos de camara.
 
 3. A continuación, enfocaremos el objeto del museo el cual queremos consultar y presionaremos el botón "Detectar objeto".
-    <img width="324" height="671" alt="image" src="https://github.com/user-attachments/assets/74f4e929-9144-490c-9697-9c60ae0ab81e" /> <img width="316" height="432" alt="image" src="https://github.com/user-attachments/assets/806e4899-4198-4d0b-ac97-0f76763b4d35" />
+
+   <img width="324" height="671" alt="image" src="https://github.com/user-attachments/assets/74f4e929-9144-490c-9697-9c60ae0ab81e" /> <img width="316" height="432" alt="image" src="https://github.com/user-attachments/assets/806e4899-4198-4d0b-ac97-0f76763b4d35" />
 
 
-4. Al esperar un par de segundos, la web nos mostrara la imagen con una mascar dibujada en el objeto, en la parte inferior leeremos la información de la pieza del museo la cual escaneamos y podremos ampliar la información presionando el botón de "Ver información detallada".
+5. Al esperar un par de segundos, la web nos mostrara la imagen con una mascar dibujada en el objeto, en la parte inferior leeremos la información de la pieza del museo la cual escaneamos y podremos ampliar la información presionando el botón de "Ver información detallada".
+ 
    <img width="326" height="608" alt="image" src="https://github.com/user-attachments/assets/9b992301-bea3-4df4-b700-462f42e332a9" /> <img width="318" height="667" alt="image" src="https://github.com/user-attachments/assets/af2a814e-cd64-4046-b5f9-b72d36b43930" />
 
 ---
