@@ -72,7 +72,7 @@ El aplicativo esta diseñado para utilizarse en dispositivo movil, para ello la 
    <img width="324" height="671" alt="image" src="https://github.com/user-attachments/assets/74f4e929-9144-490c-9697-9c60ae0ab81e" /> <img width="316" height="432" alt="image" src="https://github.com/user-attachments/assets/806e4899-4198-4d0b-ac97-0f76763b4d35" />
 
 
-5. Al esperar un par de segundos, la web nos mostrara la imagen con una mascar dibujada en el objeto, en la parte inferior leeremos la información de la pieza del museo la cual escaneamos y podremos ampliar la información presionando el botón de "Ver información detallada".
+5. Tras esperar un par de segundos, la web mostrará la imagen con la máscara de segmentación dibujada sobre el objeto. En la parte inferior se desplegará la información histórica de la pieza arqueológica escaneada. Es posible ampliar los detalles presionando el botón "Ver información detallada".
  
    <img width="326" height="608" alt="image" src="https://github.com/user-attachments/assets/9b992301-bea3-4df4-b700-462f42e332a9" /> <img width="318" height="667" alt="image" src="https://github.com/user-attachments/assets/af2a814e-cd64-4046-b5f9-b72d36b43930" />
 
